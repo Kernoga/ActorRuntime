@@ -19,3 +19,9 @@ not a truth authority;
 not an agent orchestration framework.
 Applicability
 NPC systems, social simulations, agent interfaces, persistent worlds, and multi-agent environments requiring constrained behavior without granting actors authority over world state.
+
+
+
+The public documents expose the architectural surface of the system.
+
+Detailed implementation notes and execution guides exist and are shared within collaboration or licensing discussions.
